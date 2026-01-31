@@ -1,1 +1,15 @@
 hola mundo este es mi primer commit 
+
+No Historia
+ HU-01	Nombre de historia	 Inicio de sesión
+Prioridad	 	Horas estimadas de desarrollo	 	Estado:	Pendiente 
+Sprint	 1	Responsable	 
+Descripción	Tareas
+
+Como usuario autorizado, quiero iniciar sesión en el sistema para acceder de forma segura a las funcionalidades disponibles, garantizando que solo personal autorizado pueda utilizar el sistema según su rol.
+
+
+-	Diseñar pantalla de inicio de sesión
+-	Validar credenciales ingresadas
+-	Verificar usuario y contraseña en la base de datos
+-	Controlar accesos según el rol del usuario
