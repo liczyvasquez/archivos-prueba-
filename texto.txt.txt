@@ -13,3 +13,13 @@ Como usuario autorizado, quiero iniciar sesión en el sistema para acceder de fo
 -	Validar credenciales ingresadas
 -	Verificar usuario y contraseña en la base de datos
 -	Controlar accesos según el rol del usuario
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Historias proyecto.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Usuario@LAPTOP-JB69MEJU MINGW64 /c/xampp/htdocs/SistemadeGestiondeCostos_PeIS/SistemadeGestiondeCostos_PeIS (main)
+$
